@@ -1,5 +1,10 @@
 # EPS-Project - detailed readme is the pdf file with images
 
+**References:**
+
+**1. OpenMined Documentation - PySyft example on Breast Cancer study:** https://docs.openmined.org/en/latest/getting-started/introduction.html
+
+
 **Dependency/Module installations:**
 
 _Install Jupyter Notebook and create a folder_
